@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Go, Rust**
 
-- 👨‍💻 All of my projects are available at [https://yamakenji.vercel.app/](https://yamakenji.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yamakenji.com/](https://yamakenji.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
