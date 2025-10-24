@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamakenji24" alt="yamakenji24" /></a> </p>
 
-- 🌱 I’m currently learning **React, Go, Rust**
+- 🌱 I’m currently learning **React, PHP, Ruby**
 
 - 👨‍💻 All of my projects are available at [https://yamakenji.com/](https://yamakenji.com/)
 
